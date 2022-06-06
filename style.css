@@ -1,0 +1,52 @@
+* {
+    font-family: Arial, "Dejavu Sans", sans-serif;
+    background-color: #C4A484;
+}
+
+.page-header {  
+    color: white;
+    font-size: 75px;
+}
+
+.centralized {
+    text-align: center;
+}
+
+.image-class {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+    width: 25%;
+    height: auto;
+
+}
+#home-links {
+    list-style-type: none;
+}
+
+#home-links li {
+    font-size: 20px;
+    display: inline;
+    padding: 15px;
+}
+
+#home-links li a {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5%;
+}
+#home-links li a:visited {
+    color: grey;
+}
+
+#home-links li a:hover {
+    background: grey;
+    color: white;
+}
+
+#recipes-links {
+    margin-left: auto;
+    margin-right: auto;
+}
