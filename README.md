@@ -1,2 +1,4 @@
 # odin-recipes
-This website is only used for The Odin Project exercise
+This webpage is only used for The Odin Project Projects
+
+You can view the webpage at: https://sanjero20.github.io/odin-recipes/
